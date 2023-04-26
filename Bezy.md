@@ -1,0 +1,7 @@
+# Bezy
+
+- 2 białka 
+- 1/3 szklanki drobnego cukru 
+- Łyżka soku z cytryny 
+ 
+Ubij białka z sokiem z cytryny. POWOLI dodawaj cukier (ubijaj dalej przez 15 min). Piecz 90min w 100C, otwórz piec i zostaw w środku do ostudzenia 

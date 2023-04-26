@@ -1,0 +1,12 @@
+# Pierniki
+
+- 25dag miodu
+- 4 łyżki masła
+- 35dag cukru
+- 2 jajka
+- 2 łyżeczki proszku do pieczenia
+- 2 łyżeczki cynamonu, kardamonu i imbiru
+- 60dag mąki
+- 220ml śmietany
+
+Stopić masło z miodem. Wyrób ciasto. Wytnij figurki i piecz w 200C przez 15min.
