@@ -2,14 +2,14 @@
 
 ## Podkład 
 
-- 2 szklanki mąki 
-- 3/4 kostki masła  
+- 1 szklanki mąki 
+- 1/4 kostki masła  
 - 1 jajko  
-- 3 łyżki cukru pudru 
+- 1.5 łyżki cukru pudru 
 - 1 łyżeczka cukru z wanilią 
-- 1 łyżeczka proszku do pieczenia 
+- 0.5 łyżeczki proszku do pieczenia 
 
-Mąkę, cukier puder, proszek do pieczenia, cukier z wanilią oraz masło posiekać drobniej. Potem dodać jajko i zagnieść. Rozwałkować, włożyć do formy i nakłuć widelcem. Piec 15-20 min w 200 C. 
+Już wzięte pod uwagę mniejsze porcje. Mąkę, cukier puder, proszek do pieczenia, cukier z wanilią oraz masło posiekać drobniej. Potem dodać jajko i zagnieść. Rozwałkować, włożyć do formy i nakłuć widelcem. Piec 15-20 min w 200 C. 
 
 ## Ser 
 
