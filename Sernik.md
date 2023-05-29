@@ -2,7 +2,7 @@
 
 ## Podkład 
 
-- 1 szklanki mąki 
+- 1 szklanka mąki 
 - 1/4 kostki masła  
 - 1 jajko  
 - 1.5 łyżki cukru pudru 
