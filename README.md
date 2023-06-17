@@ -9,6 +9,7 @@
 - [Carbonara](Carbonara.md)
 - [Ciasto dyniowe](<Ciasto dyniowe.md>)
 - [Ciasto szpinakowe](<Ciasto szpinakowe.md>)
+- [Fasolka](Fasolka.md)
 - [Gulasz](Gulasz.md)
 - [Kokosanki](Kokosanki.md)
 - [Krem orzechowy](<Krem orzechowy.md>)
