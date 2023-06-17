@@ -1,10 +1,10 @@
 # Mugcake
 
 - Duża szklanka
-- 2 łyżki mąki
-- 1 łyżeczka proszku do pieczenia
+- 1.5 łyżki mąki
+- 0.5 łyżeczka proszku do pieczenia
 - 1 łyżka cukru
-- 2 łyżki kakao
+- 1 łyżka kakao
 - 1 jajko
 - 1 łyżka oleju
 - 1 łyżka mleka
