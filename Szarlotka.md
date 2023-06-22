@@ -10,7 +10,9 @@
 - 1 cukier wanilinowy 
 - 2 łyżeczki proszku do pieczenia 
   
-Do miski wsypać mąkę, cukier, cukier wanilinowy, wbić żółtka jajek, dodać margarynę pokrojoną w kostkę i łyżkę śmietany. 
+Użyj całych jajek.
+
+Do miski wsypać mąkę, cukier, cukier wanilinowy, wbić jajka, dodać margarynę pokrojoną w kostkę i łyżkę śmietany. 
   
 ## Jabłka 
 
@@ -32,4 +34,4 @@ Wszystko wymieszaj i ubij. Odstaw do lodówki.
   
 ## Razem
 
-Wyłóż formę ciastem, oprósz mąką, jabłkami. Na wierzch jabłek daj ubite białka jajek (z dodatkiem cukru, nie pudru). Na końcu posyp całość kruszonką z lodówki. Piecz 45 w 180 C. Zostaw na 1h w piekarniku żeby białko stwardło. Po wyjęciu zostaw w formie do ostudzenia. 
+Wyłóż formę ciastem, oprósz mąką, jabłkami. Na końcu posyp całość kruszonką z lodówki (zostaw luki na odparowanie). Piecz 45 w 180 C. Zostaw na 1h w piekarniku żeby białko stwardło. Po wyjęciu zostaw w formie do ostudzenia. 
