@@ -40,5 +40,4 @@
 - [Rosół](Rosół.md)
 - [Sernik](Sernik.md)
 - [Szarlotka](Szarlotka.md)
-- [Sękacz](Sękacz.md)
 - [Tarta](Tarta.md)
