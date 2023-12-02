@@ -1,6 +1,7 @@
 # Gulasz
 
-- 800 g łopatki wieprzowej (może być też indyk...) 
+- 500 g mięsa na gulasz
+- szklanka ugotowanej ciecierzycy
 - 1 czerwona papryka 
 - 2 marchewki 
 - 1 pietruszka 
@@ -15,5 +16,5 @@
 - 1 łyżeczka soli 
 - 1 szczypta pieprzu 
 - 1.5l wody
-  
-Wszystko pokrój w kostkę, zalej wodą i gotuj. Odlej trochę gulaszu i gdy ostygnie wymieszaj z mąką. Zagęszczony gulasz stopniowo wlewaj do reszty, tak żeby nie było zbyt gęste.
+
+Przysmaż cebulę (i marchewkę?) na patelni. Dodaj resztę pokrojoną w kostkę i zalej wodą. Gotuj w małej temperaturze aż warzywa zmiękną. Na koniec dodaj mięso. Zagęść gulasz wodą zmieszaną z mąką.
