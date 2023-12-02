@@ -41,3 +41,4 @@
 - [Sernik](Sernik.md)
 - [Szarlotka](Szarlotka.md)
 - [Tarta](Tarta.md)
+- [Zapiekanka pasterska](Zapiekanka_pasterska.md)
