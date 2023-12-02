@@ -8,9 +8,9 @@
 - 0.5 szklanki cukru 
 - 1 margaryna Kasia 
 - 1 cukier wanilinowy 
-- 2 łyżeczki proszku do pieczenia 
+- 2 łyżeczki proszku do pieczenia
   
-Użyj całych jajek.
+Użyj **tylko żółtek**, białka zostaw na *bezę* na wierzch.
 
 Do miski wsypać mąkę, cukier, cukier wanilinowy, wbić jajka, dodać margarynę pokrojoną w kostkę i łyżkę śmietany. 
   
