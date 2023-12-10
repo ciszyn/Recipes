@@ -22,9 +22,9 @@ def natural_sort_key(s):
 def create_start_menu(prev, next, menu):
     return f"""{nav_menu_start_start_tag}
 
-{f"- [Previous]({prev})" if prev is not None else ""}
-{f"- [Next]({next})" if next is not None else ""}
-- [Menu]({menu})
+{f"- [Previous](<{prev}>)" if prev is not None else ""}
+{f"- [Next](<{next}>)" if next is not None else ""}
+- [Menu](<{menu}>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -33,9 +33,9 @@ def create_start_menu(prev, next, menu):
 def create_end_menu(prev, next, menu):
     return f"""\n\n{nav_menu_end_start_tag}
 
-{f"- [Previous]({prev})" if prev is not None else ""}
-{f"- [Next]({next})" if next is not None else ""}
-- [Menu]({menu})
+{f"- [Previous](<{prev}>)" if prev is not None else ""}
+{f"- [Next](<{next}>)" if next is not None else ""}
+- [Menu](<{menu}>)
 
 <div style="margin-bottom: 50px"></div>
 
