@@ -64,7 +64,7 @@ def create_menu(dir, readme_file):
 
         create_file_menu(filename, prev_relative_path, next_relative_path, readme_relative_path)
 
-        name = re.search('[1-9\.]*_*(.*).md', os.path.basename(filename)).group(1).replace('_', ' ')
+        name = re.search('[0-9\.]*_*(.*).md', os.path.basename(filename)).group(1).replace('_', ' ')
         result += f"{get_tabulation(dir)}- [{name}](<{filename}>)\n"
 
     return result
