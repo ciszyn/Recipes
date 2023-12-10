@@ -1,0 +1,100 @@
+#!/usr/bin/env python3
+
+from glob import glob
+import os
+import re
+
+nav_menu_start_start_tag = "<!-- Navigation Menu Start -->"
+nav_menu_start_end_tag = "<!-- /Navigation Menu Start -->"
+nav_menu_end_start_tag = "<!-- Navigation Menu End -->"
+nav_menu_end_end_tag = "<!-- /Navigation Menu End -->"
+
+nav_menu_start_start_tag_escaped = re.escape(nav_menu_start_start_tag)
+nav_menu_start_end_tag_escaped = re.escape(nav_menu_start_end_tag)
+nav_menu_end_start_tag_escaped = re.escape(nav_menu_end_start_tag)
+nav_menu_end_end_tag_escaped = re.escape(nav_menu_end_end_tag)
+
+_nsre = re.compile('([0-9]+)')
+def natural_sort_key(s):
+    return [int(text) if text.isdigit() else text.lower()
+            for text in re.split(_nsre, s)]   
+
+def create_start_menu(prev, next, menu):
+    return f"""{nav_menu_start_start_tag}
+
+{f"- [Previous]({prev})" if prev is not None else ""}
+{f"- [Next]({next})" if next is not None else ""}
+- [Menu]({menu})
+
+<div style="margin-bottom: 50px"></div>
+
+{nav_menu_start_end_tag}\n\n"""
+
+def create_end_menu(prev, next, menu):
+    return f"""\n\n{nav_menu_end_start_tag}
+
+{f"- [Previous]({prev})" if prev is not None else ""}
+{f"- [Next]({next})" if next is not None else ""}
+- [Menu]({menu})
+
+<div style="margin-bottom: 50px"></div>
+
+{nav_menu_end_end_tag}"""
+
+
+
+def create_menu(dir, readme_file):
+    result = ""
+
+    for path in glob(dir + "/*"):
+        if (os.path.isdir(path)):
+            files = [ x for x in glob(path + "/*.md") if x != readme_file ]
+            if len(files) > 0:
+                result += "- " + os.path.basename(path) + "\n"
+                result += create_menu(path, readme_file)
+
+    files = [ x for x in glob(dir + "/*.md") if x != readme_file ]
+    files.sort(key=natural_sort_key)
+
+    for filename, prev_filename, next_filename in zip(files, [None] + files[:-1], files[1:] + [None]):
+
+        readme_relative_path = os.path.relpath(readme_file, os.path.dirname(filename))
+        prev_relative_path = os.path.relpath(prev_filename, os.path.dirname(filename)) if prev_filename is not None else None
+        next_relative_path = os.path.relpath(next_filename, os.path.dirname(filename)) if next_filename is not None else None
+
+        create_file_menu(filename, prev_relative_path, next_relative_path, readme_relative_path)
+
+        name = re.search('[1-9\.]*_*(.*).md', os.path.basename(filename)).group(1).replace('_', ' ')
+        result += f"\t- [{name}](<{filename}>)\n"
+
+    return result
+
+def create_file_menu(filename, prev, next, menu):
+    content = ""
+
+    with open(filename) as file:
+        content = file.read()
+
+    start_menu = create_start_menu(prev, next, menu)
+    end_menu = create_end_menu(prev, next, menu)
+
+    if nav_menu_start_start_tag in content:
+        split = re.split(f"\n*{nav_menu_start_start_tag_escaped}(.|\n)*?{nav_menu_start_end_tag_escaped}\n*", content)
+        content = ''.join(split)
+    
+
+    if nav_menu_end_start_tag in content:
+        split = re.split(f"\n*{nav_menu_end_start_tag_escaped}(.|\n)*?{nav_menu_end_end_tag_escaped}\n*", content)
+        content = ''.join(split)
+
+    content = start_menu + content + end_menu
+
+    with open(filename, "w") as file:
+        file.write(content)
+
+
+    
+menu = create_menu(".", "./README.md")
+with open("./README.md", "w") as file:
+    file.write(menu)
+# print(natural_sort_key("14ad"))
