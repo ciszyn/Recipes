@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Pierogi ruskie
 
 ## Ciasto
@@ -26,6 +27,7 @@
 - po pół płaskiej łyżeczki soli i pieprzu
 
 Ziemniaki ugotuj i zmiel. Cebulę przysmaż na maślę. Wymieszaj wszysto do farszu. Wyrób ciasto ze składników. Ulep pierogi. Możesz mrozić ugotowane, bądź surowe.
+
 
 <!-- Navigation Menu End -->
 

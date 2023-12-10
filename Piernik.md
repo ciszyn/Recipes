@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Piernik
 
 - 1 kg mąki pszennej lub tortowej
@@ -23,6 +24,7 @@
 (Składniki są na 3 spody, 2/3 chyba raczej wystarczą - z 2/3 i tak zrób 3 spody) Rozpuść masło z miodem i cukrem, odstaw do wystudzenia. Wymieszaj mąkę z sodą, przyprawą do piernika (opcjonalnie 2 łyżki kakao, lub startą pomarańczę). Dodaj jajka, mleko i stopione masło. Dokładnie wymieszaj aż będzie gęste i gładkie, lecz za miękkie do formowania. Przenieś ciasto do naczynia i przykryj folią (zostaw szczeliny na oddychanie?). Ciasto powinno dojrzewać 2-6 tygodni w lodówce (conajmniej 2 tygodnie!). Podziel na 3 spody i piecz z osobna w 175C przez 18min. Przełóż blaty powidłami śliwkowymi (375g na jeden blat)
 
 [Pomysł na pierniki z 1/3 ciasta](https://www.youtube.com/watch?v=5FBjak2zMxY)
+
 
 <!-- Navigation Menu End -->
 

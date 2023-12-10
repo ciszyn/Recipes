@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Placki ziemniaczane
 
 - 1 kg ziemniaków 
@@ -19,6 +20,7 @@
 - 1 szczypta pieprzu 
   
 Obrane ziemniaki i cebulę ścieramy na tarce o drobnych oczkach, wylewamy masę na sitko ustawione na naczyniu i delikatnie odciskamy. Następnie przekładamy do miski i ziemniaki mieszamy z jajkiem, mąką oraz dodajemy przeciśnięty przez praskę czosnek (opcjonalnie). Z naczynia, nad którym odcedzaliśmy ziemniaki z nadmiaru wody, odlewamy delikatnie sok zostawiając na dnie skrobię ziemniaczaną. Skrobię dodajemy do masy wraz 1 łyżką śmietany, doprawiamy solą oraz pieprzem i smażymy z obu stron na złoty kolor.
+
 
 <!-- Navigation Menu End -->
 

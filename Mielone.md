@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Mielone
 
 - 500 g łopatki wieprzowej 
@@ -21,6 +22,7 @@
 - pół płaskiej łyżeczki pieprzu 
 
 Podsmaż drobno pokrojoną cebulę. Bułkę zalaną mlekiem zmiksuj. Do miski ze zmielonym mięsem dodaj pół namoczonej i odciśniętej z płynu bułeczki. Wszystko wymieszaj razem i uformuj kotlety, które dodatkowo opanierujesz w bułce tartej.
+
 
 <!-- Navigation Menu End -->
 

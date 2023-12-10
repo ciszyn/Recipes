@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Pomidorowa
 
 - 1 litr dowolnego bulionu
@@ -20,6 +21,7 @@
 - pół łyżeczki pieprzu
 
 Podsmaż cebulę i czosnek. Obierz i pokrój pomidory. Dodaj pomidory do cebuli i podsmażaj przez 5min. Następnie dodać do bulionu i gotować 10min.
+
 
 <!-- Navigation Menu End -->
 

@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Rosół
 
 - 1 kura lub kurczak o wadze około 1,5 kg
@@ -25,6 +26,7 @@
 - 2 łyżeczki soli
 
 Gotuj wszystko przez 3h na małym ogniu. Na początku zbierz ścięte białko (szumowiny) z rosołu.
+
 
 <!-- Navigation Menu End -->
 

@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Pierniki
 
 - 25dag miodu
@@ -20,6 +21,7 @@
 - 220ml śmietany
 
 Stopić masło z miodem. Wyrób ciasto. Wytnij figurki i piecz w 200C przez 15min.
+
 
 <!-- Navigation Menu End -->
 

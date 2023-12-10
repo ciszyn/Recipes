@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Ciasto szpinakowe
 
 ## Ciasto
@@ -29,6 +30,7 @@ Całe jajka (wcześniej wyjęte z lodówki), przepłukany szpinak oraz olej zmik
 - 1 łyżeczka wanilii
 
 Do misy miksera włożyć mocno schłodzony ser mascarpone oraz śmietankę, dodać cukier puder i wanilię. Ubijać przez kilka minut aż masa zwiększy objętość i będzie puszysta.
+
 
 <!-- Navigation Menu End -->
 

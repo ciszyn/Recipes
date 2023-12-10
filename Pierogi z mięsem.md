@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Pierogi z mięsem
 
 ## Ciasto
@@ -27,6 +28,7 @@
 
 Zmiel mięso z cebulą przysmażoną na oleju i przyprawami. Możesz też dodać warzywa z bulionu.
 Wyrób ciasto ze składników i ulep pierogi. Możesz zamrozić ugotowane bądź surowe.
+
 
 <!-- Navigation Menu End -->
 

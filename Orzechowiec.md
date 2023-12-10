@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Orzechowiec
 
 ## Ciasto 
@@ -45,6 +46,7 @@ Budynie ugotować według przepisu na opakowaniu, dodając zamiast 4 szklanek ml
 Formę (najlepiej o wymiarach 25 x 40 cm, ja miałam trochę mniejszą) wyłożyć papierem do pieczenia. Z podzielonego ciasta jedną część wyłożyć do formy, wyrównać. Piec w temperaturze 180ºC przez około 10 minut. Drugą część ciasta wyłożyć do tej samej formy, nakładając na nią warstwę orzechową. Piec również 10 minut w temperaturze 180ºC. Gotowe ciasta przełożyć masą budyniową. 
 
  
+
 
 <!-- Navigation Menu End -->
 
