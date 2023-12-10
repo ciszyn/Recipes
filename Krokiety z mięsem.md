@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Krem orzechowy.md)
+- [Next](Lasagne.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Krokiety z mięsem
 
 ## Farsz
@@ -30,3 +40,13 @@
 - olej roślinny do smażenia
 
 Ciasto do krokietów powinno być gęstsze niż na naleśniki. Przysmaż ciasto. Mięso ugotowane z warzywami zmiel i wymieszaj. Owiń mięso w naleśniki, openieruj i usmaż. 
+
+<!-- Navigation Menu End -->
+
+- [Previous](Krem orzechowy.md)
+- [Next](Lasagne.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

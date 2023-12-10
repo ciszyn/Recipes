@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Queijadas de Sintra.md)
+- [Next](Sernik.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Rosół
 
 - 1 kura lub kurczak o wadze około 1,5 kg
@@ -15,3 +25,13 @@
 - 2 łyżeczki soli
 
 Gotuj wszystko przez 3h na małym ogniu. Na początku zbierz ścięte białko (szumowiny) z rosołu.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Queijadas de Sintra.md)
+- [Next](Sernik.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

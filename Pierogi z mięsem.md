@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Pierogi ruskie.md)
+- [Next](Placki ziemniaczane.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Pierogi z mięsem
 
 ## Ciasto
@@ -17,3 +27,13 @@
 
 Zmiel mięso z cebulą przysmażoną na oleju i przyprawami. Możesz też dodać warzywa z bulionu.
 Wyrób ciasto ze składników i ulep pierogi. Możesz zamrozić ugotowane bądź surowe.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Pierogi ruskie.md)
+- [Next](Placki ziemniaczane.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

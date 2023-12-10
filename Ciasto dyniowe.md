@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Carbonara.md)
+- [Next](Ciasto szpinakowe.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Ciasto dyniowe
 
 - 1 1/3 szklanki mąki pszennej 
@@ -11,3 +21,13 @@
 - szczypta soli
 
 Ubij jajka z cukrem. Dodaj olej. Dodaj całą resztę. Na koniec dodaj startą dynię. Piecz 40min. w 180C.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Carbonara.md)
+- [Next](Ciasto szpinakowe.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Fasolka.md)
+- [Next](Kokosanki.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Gulasz
 
 - 500 g mięsa na gulasz
@@ -18,3 +28,14 @@
 - 1.5l wody
 
 Przysmaż cebulę (i marchewkę?) na patelni. Dodaj resztę pokrojoną w kostkę i zalej wodą. Gotuj w małej temperaturze aż warzywa zmiękną. Na koniec dodaj mięso. Zagęść gulasz wodą zmieszaną z mąką.
+
+
+<!-- Navigation Menu End -->
+
+- [Previous](Fasolka.md)
+- [Next](Kokosanki.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

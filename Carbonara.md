@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Brownie.md)
+- [Next](Ciasto dyniowe.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Carbonara
 
 - 2 jajka
@@ -10,3 +20,13 @@
 - (trochę śmietany?)
 
 Makaron ugotować al dente. Jajka doprawić solą i pieprzem oraz roztrzepać. Podsmażyć boczek aż się zarumieni i dodać wtedy starty czosnek i natkę pietruszki. Trzymając patelnię na małym ogniu dodać makaron i wymieszać. Odstawić z ognia i dodać ser. Makaron polać roztrzepanymi jajkami i wymieszać. Jajka nie mogą się całkowicie ściąć. 
+
+<!-- Navigation Menu End -->
+
+- [Previous](Brownie.md)
+- [Next](Ciasto dyniowe.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

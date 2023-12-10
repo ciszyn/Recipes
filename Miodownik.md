@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Mielone.md)
+- [Next](Mugcake.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Miodownik
 
 ## Ciasto
@@ -16,3 +26,13 @@
 - 250g masła
 
 Kaszę mannę, cukier i mleko mieszamy i gotujemy do zgęstnienia, następnie studzimy. Masło ucieramy i stopniowo dodajemy kaszę mannę. Wyrabiamy ciasto i dzielimy na 4 części. Pieczemy osobno w 180C przez 12 min. Spody przekładamy masą kremową.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Mielone.md)
+- [Next](Mugcake.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

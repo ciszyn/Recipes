@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Krokiety z mięsem.md)
+- [Next](Lukier królewski.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Lasagne
 
 ## Makaron 
@@ -21,3 +31,13 @@ W średnim garnku dobrze rozgrzać masło, dodać mąkę i smażyć przez około
 ## Przygotowanie
 
 Piekarnik nagrzać do 175 stopni C (grzanie góra-dół bez termoobiegu). Przygotować żaroodporną formę o wymiarach około 19 x 27 cm. Wysmarować ją masłem, wlać i rozprowadzić ok. 100 ml sosu beszamelowego, ułożyć pierwszą warstwę płatów lasagne (mogą nieznacznie na siebie nachodzić). Na płatach lasagne rozprowadzić warstwę sosu bolońskiego, następnie polać sosem beszamelowym i posypać parmezanem. Powtórzyć jeszcze 4-krotnie. Tak złożoną lasagne włożyć do piekarnika i piec 45 minut (w połowie czasu pieczenia przykryć folią aluminiową). Po wyjęciu z piekarnika odczekać 5 minut przed porcjowaniem. 
+
+<!-- Navigation Menu End -->
+
+- [Previous](Krokiety z mięsem.md)
+- [Next](Lukier królewski.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

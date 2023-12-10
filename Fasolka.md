@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Ciasto szpinakowe.md)
+- [Next](Gulasz.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Fasolka po bretońsku
 
 
@@ -21,3 +31,14 @@ Fasolę wsypać do garnka, zalać zimną wodą i odstawić na noc do namoczenia.
 Zalać 1 litrem zimnej wody, dodać liście laurowe, ziele angielskie oraz 1 płaską łyżeczkę soli. Wstawić garnek na palnik i gotować fasolę pod przykryciem, na bardzo małym ogniu, przez 90 minut.
 Przysmaż cebulę, czosnek, boczek i kiełbasę. Dodaj do fasoli. Dodać cukier, majeranek, paprykę, koncentrat pomidorowy oraz passatę pomidorową. 
 Całość wymieszać i gotować jeszcze przez ok. 10 minut na średnim ogniu.
+
+
+<!-- Navigation Menu End -->
+
+- [Previous](Ciasto szpinakowe.md)
+- [Next](Gulasz.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

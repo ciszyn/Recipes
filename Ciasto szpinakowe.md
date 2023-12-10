@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Ciasto dyniowe.md)
+- [Next](Fasolka.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Ciasto szpinakowe
 
 ## Ciasto
@@ -19,3 +29,13 @@ Całe jajka (wcześniej wyjęte z lodówki), przepłukany szpinak oraz olej zmik
 - 1 łyżeczka wanilii
 
 Do misy miksera włożyć mocno schłodzony ser mascarpone oraz śmietankę, dodać cukier puder i wanilię. Ubijać przez kilka minut aż masa zwiększy objętość i będzie puszysta.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Ciasto dyniowe.md)
+- [Next](Fasolka.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

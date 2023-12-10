@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Murzynek.md)
+- [Next](Orzechowiec.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Napoleonka
 
 ## Ciasto
@@ -25,3 +35,13 @@ Do miski wlej połowę mleka, żółtka jajek, mąkę pszenną i budyń wanilino
 ## Razem
 
 Przełóż ciasto gorącym kremem zdjętym z palnika. Odczekaj, aż ciasto całkowicie przestygnie, a następnie formę z Napoleonką umieść w lodówce przynajmniej na cztery godziny, a najlepiej na całą noc. Oprósz cukrem pudrem
+
+<!-- Navigation Menu End -->
+
+- [Previous](Murzynek.md)
+- [Next](Orzechowiec.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Sernik.md)
+- [Next](Tarta.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Szarlotka
 
 ## Ciasto 
@@ -35,3 +45,14 @@ Wszystko wymieszaj i ubij. Odstaw do lodówki.
 ## Razem
 
 Wyłóż formę ciastem, oprósz mąką, jabłkami. Na końcu posyp całość kruszonką z lodówki (zostaw luki na odparowanie). Piecz 45 w 180 C. Zostaw na 1h w piekarniku żeby białko stwardło. Po wyjęciu zostaw w formie do ostudzenia. 
+
+
+<!-- Navigation Menu End -->
+
+- [Previous](Sernik.md)
+- [Next](Tarta.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

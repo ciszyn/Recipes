@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](Queijadas de Leite.md)
+- [Next](Rosół.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Queijadas de Sintra
 
 ## Ciasto
@@ -15,3 +25,13 @@
 - 0.5 łyżeczki cynamonu
 
 Wyrób ciasto i wymieszaj nadzienie. Piecz w 180C przez 15-20 min.
+
+<!-- Navigation Menu End -->
+
+- [Previous](Queijadas de Leite.md)
+- [Next](Rosół.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->

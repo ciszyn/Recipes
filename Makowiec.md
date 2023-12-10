@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](MacNCheese.md)
+- [Next](Marchewkowiec.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Makowiec
 
 ## Ciasto 
@@ -25,3 +35,14 @@ Mąkę mieszamy z pokrojonym zimnym masłem. Dodajemy resztę i zagniatamy ciast
 Zalewamy mak gorącą wodą i zostawiamy do wystudzenia. Odsączamy z nadmiaru wody. Żółtka miksujemy razem z cukrem na puszystą masę. Dodajemy powoli zmielony mak. Potem dodajemy masło, mąkę, kakao. Białka ubijamy ze szczyptą soli i delikatnie mieszamy z masą makową. 
 
 Do zrobienia muffinków użyj połowy składników, ciasto wytnij rantem szklanki. Pieczemy 30min w 180C.
+
+
+<!-- Navigation Menu End -->
+
+- [Previous](MacNCheese.md)
+- [Next](Marchewkowiec.md)
+- [Menu](README.md)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->
