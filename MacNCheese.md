@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Lukier szklany.md)
-- [Next](Makowiec.md)
-- [Menu](README.md)
+- [Previous](<Lukier szklany.md>)
+- [Next](<Makowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -26,9 +26,9 @@ Roztop masło i powoli dodawaj mąkę. Gdy się wymiesza zacznij dodawać mleko.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Lukier szklany.md)
-- [Next](Makowiec.md)
-- [Menu](README.md)
+- [Previous](<Lukier szklany.md>)
+- [Next](<Makowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

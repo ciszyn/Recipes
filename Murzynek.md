@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Mugcake.md)
-- [Next](Napoleonka.md)
-- [Menu](README.md)
+- [Previous](<Mugcake.md>)
+- [Next](<Napoleonka.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -25,9 +25,9 @@ Kakao wymieszać z wodą. Margarynę stopić w rondelku; wsypać cukier, wlać k
 
 <!-- Navigation Menu End -->
 
-- [Previous](Mugcake.md)
-- [Next](Napoleonka.md)
-- [Menu](README.md)
+- [Previous](<Mugcake.md>)
+- [Next](<Napoleonka.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Ciasto szpinakowe.md)
-- [Next](Gulasz.md)
-- [Menu](README.md)
+- [Previous](<Ciasto szpinakowe.md>)
+- [Next](<Gulasz.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -36,9 +36,9 @@ Całość wymieszać i gotować jeszcze przez ok. 10 minut na średnim ogniu.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Ciasto szpinakowe.md)
-- [Next](Gulasz.md)
-- [Menu](README.md)
+- [Previous](<Ciasto szpinakowe.md>)
+- [Next](<Gulasz.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

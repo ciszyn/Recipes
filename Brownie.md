@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Bramborowe krokety.md)
-- [Next](Carbonara.md)
-- [Menu](README.md)
+- [Previous](<Bramborowe krokety.md>)
+- [Next](<Carbonara.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -24,9 +24,9 @@ Zmiksuj banana z fasolą i olejem. Dodaj kakao, sodę oraz szczyptę soli i wymi
 
 <!-- Navigation Menu End -->
 
-- [Previous](Bramborowe krokety.md)
-- [Next](Carbonara.md)
-- [Menu](README.md)
+- [Previous](<Bramborowe krokety.md>)
+- [Next](<Carbonara.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

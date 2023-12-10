@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Marchewkowiec.md)
-- [Next](Mielone.md)
-- [Menu](README.md)
+- [Previous](<Marchewkowiec.md>)
+- [Next](<Mielone.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -21,9 +21,9 @@ Użyj tylko połowy składników? Budynie ugotować według przepisu na opakowan
 
 <!-- Navigation Menu End -->
 
-- [Previous](Marchewkowiec.md)
-- [Next](Mielone.md)
-- [Menu](README.md)
+- [Previous](<Marchewkowiec.md>)
+- [Next](<Mielone.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

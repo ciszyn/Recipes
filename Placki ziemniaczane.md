@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Pierogi z mięsem.md)
-- [Next](Polewa czekoladowa.md)
-- [Menu](README.md)
+- [Previous](<Pierogi z mięsem.md>)
+- [Next](<Polewa czekoladowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -24,9 +24,9 @@ Obrane ziemniaki i cebulę ścieramy na tarce o drobnych oczkach, wylewamy masę
 
 <!-- Navigation Menu End -->
 
-- [Previous](Pierogi z mięsem.md)
-- [Next](Polewa czekoladowa.md)
-- [Menu](README.md)
+- [Previous](<Pierogi z mięsem.md>)
+- [Next](<Polewa czekoladowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Murzynek.md)
-- [Next](Orzechowiec.md)
-- [Menu](README.md)
+- [Previous](<Murzynek.md>)
+- [Next](<Orzechowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -40,9 +40,9 @@ Przełóż ciasto gorącym kremem zdjętym z palnika. Odczekaj, aż ciasto całk
 
 <!-- Navigation Menu End -->
 
-- [Previous](Murzynek.md)
-- [Next](Orzechowiec.md)
-- [Menu](README.md)
+- [Previous](<Murzynek.md>)
+- [Next](<Orzechowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

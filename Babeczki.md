@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
 
-- [Next](Babka piaskowa.md)
-- [Menu](README.md)
+- [Next](<Babka piaskowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -25,8 +25,8 @@ Zostaw przynajmniej 1,5 cm wolnej przestrzeni wewnątrz foremki. 30 min. w 170C
 <!-- Navigation Menu End -->
 
 
-- [Next](Babka piaskowa.md)
-- [Menu](README.md)
+- [Next](<Babka piaskowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

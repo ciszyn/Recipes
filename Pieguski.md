@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Orzechowiec.md)
-- [Next](Piernik.md)
-- [Menu](README.md)
+- [Previous](<Orzechowiec.md>)
+- [Next](<Piernik.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -24,9 +24,9 @@ Wygnieć ciasto i wymieszaj z pokrojonymu orzechami i czekoladą. Odłóż do lo
 
 <!-- Navigation Menu End -->
 
-- [Previous](Orzechowiec.md)
-- [Next](Piernik.md)
-- [Menu](README.md)
+- [Previous](<Orzechowiec.md>)
+- [Next](<Piernik.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

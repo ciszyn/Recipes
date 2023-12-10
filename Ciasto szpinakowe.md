@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Ciasto dyniowe.md)
-- [Next](Fasolka.md)
-- [Menu](README.md)
+- [Previous](<Ciasto dyniowe.md>)
+- [Next](<Fasolka.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -34,9 +34,9 @@ Do misy miksera włożyć mocno schłodzony ser mascarpone oraz śmietankę, dod
 
 <!-- Navigation Menu End -->
 
-- [Previous](Ciasto dyniowe.md)
-- [Next](Fasolka.md)
-- [Menu](README.md)
+- [Previous](<Ciasto dyniowe.md>)
+- [Next](<Fasolka.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

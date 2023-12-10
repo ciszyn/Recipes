@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Fasolka.md)
-- [Next](Kokosanki.md)
-- [Menu](README.md)
+- [Previous](<Fasolka.md>)
+- [Next](<Kokosanki.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -33,9 +33,9 @@ Przysmaż cebulę (i marchewkę?) na patelni. Dodaj resztę pokrojoną w kostkę
 
 <!-- Navigation Menu End -->
 
-- [Previous](Fasolka.md)
-- [Next](Kokosanki.md)
-- [Menu](README.md)
+- [Previous](<Fasolka.md>)
+- [Next](<Kokosanki.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

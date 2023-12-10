@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Krokiety z mięsem.md)
-- [Next](Lukier królewski.md)
-- [Menu](README.md)
+- [Previous](<Krokiety z mięsem.md>)
+- [Next](<Lukier królewski.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -36,9 +36,9 @@ Piekarnik nagrzać do 175 stopni C (grzanie góra-dół bez termoobiegu). Przygo
 
 <!-- Navigation Menu End -->
 
-- [Previous](Krokiety z mięsem.md)
-- [Next](Lukier królewski.md)
-- [Menu](README.md)
+- [Previous](<Krokiety z mięsem.md>)
+- [Next](<Lukier królewski.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

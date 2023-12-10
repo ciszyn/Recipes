@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Miodownik.md)
-- [Next](Murzynek.md)
-- [Menu](README.md)
+- [Previous](<Miodownik.md>)
+- [Next](<Murzynek.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -26,9 +26,9 @@ Wymieszać wszystko w szklance. Ciasto ma być gęste. 2.5 min. w mikrofalówce.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Miodownik.md)
-- [Next](Murzynek.md)
-- [Menu](README.md)
+- [Previous](<Miodownik.md>)
+- [Next](<Murzynek.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

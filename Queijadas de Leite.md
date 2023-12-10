@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Pomidorowa.md)
-- [Next](Queijadas de Sintra.md)
-- [Menu](README.md)
+- [Previous](<Pomidorowa.md>)
+- [Next](<Queijadas de Sintra.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -23,9 +23,9 @@ Ubij jajka ze stopionym masłem i skórką. Zacznij dodawać zagotowane mleko i 
 
 <!-- Navigation Menu End -->
 
-- [Previous](Pomidorowa.md)
-- [Next](Queijadas de Sintra.md)
-- [Menu](README.md)
+- [Previous](<Pomidorowa.md>)
+- [Next](<Queijadas de Sintra.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

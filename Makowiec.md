@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](MacNCheese.md)
-- [Next](Marchewkowiec.md)
-- [Menu](README.md)
+- [Previous](<MacNCheese.md>)
+- [Next](<Marchewkowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -40,9 +40,9 @@ Do zrobienia muffinków użyj połowy składników, ciasto wytnij rantem szklank
 
 <!-- Navigation Menu End -->
 
-- [Previous](MacNCheese.md)
-- [Next](Marchewkowiec.md)
-- [Menu](README.md)
+- [Previous](<MacNCheese.md>)
+- [Next](<Marchewkowiec.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

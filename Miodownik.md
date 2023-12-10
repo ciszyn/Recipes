@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Mielone.md)
-- [Next](Mugcake.md)
-- [Menu](README.md)
+- [Previous](<Mielone.md>)
+- [Next](<Mugcake.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -31,9 +31,9 @@ Kaszę mannę, cukier i mleko mieszamy i gotujemy do zgęstnienia, następnie st
 
 <!-- Navigation Menu End -->
 
-- [Previous](Mielone.md)
-- [Next](Mugcake.md)
-- [Menu](README.md)
+- [Previous](<Mielone.md>)
+- [Next](<Mugcake.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

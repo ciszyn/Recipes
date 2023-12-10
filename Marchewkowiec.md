@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Makowiec.md)
-- [Next](Masa budyniowa.md)
-- [Menu](README.md)
+- [Previous](<Makowiec.md>)
+- [Next](<Masa budyniowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -27,9 +27,9 @@ Marchewkę trzemy na tarce o drobnych oczkach. Piekarnik nastawiamy na 180°C i 
 
 <!-- Navigation Menu End -->
 
-- [Previous](Makowiec.md)
-- [Next](Masa budyniowa.md)
-- [Menu](README.md)
+- [Previous](<Makowiec.md>)
+- [Next](<Masa budyniowa.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

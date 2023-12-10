@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Tarta.md)
+- [Previous](<Tarta.md>)
 
-- [Menu](README.md)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -27,9 +27,9 @@ Dopraw solą i pieprzem. Przełóż do naczynia żaroodpornego i przykryj ubitym
 
 <!-- Navigation Menu End -->
 
-- [Previous](Tarta.md)
+- [Previous](<Tarta.md>)
 
-- [Menu](README.md)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

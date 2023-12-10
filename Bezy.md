@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Babka piaskowa.md)
-- [Next](Biszkopt.md)
-- [Menu](README.md)
+- [Previous](<Babka piaskowa.md>)
+- [Next](<Biszkopt.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -22,9 +22,9 @@ Mają być małe bo inaczej się nie zrobią w środku.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Babka piaskowa.md)
-- [Next](Biszkopt.md)
-- [Menu](README.md)
+- [Previous](<Babka piaskowa.md>)
+- [Next](<Biszkopt.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Piernik.md)
-- [Next](Pierogi ruskie.md)
-- [Menu](README.md)
+- [Previous](<Piernik.md>)
+- [Next](<Pierogi ruskie.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -25,9 +25,9 @@ Stopić masło z miodem. Wyrób ciasto. Wytnij figurki i piecz w 200C przez 15mi
 
 <!-- Navigation Menu End -->
 
-- [Previous](Piernik.md)
-- [Next](Pierogi ruskie.md)
-- [Menu](README.md)
+- [Previous](<Piernik.md>)
+- [Next](<Pierogi ruskie.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

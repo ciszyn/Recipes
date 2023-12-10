@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Napoleonka.md)
-- [Next](Pieguski.md)
-- [Menu](README.md)
+- [Previous](<Napoleonka.md>)
+- [Next](<Pieguski.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -50,9 +50,9 @@ Formę (najlepiej o wymiarach 25 x 40 cm, ja miałam trochę mniejszą) wyłoży
 
 <!-- Navigation Menu End -->
 
-- [Previous](Napoleonka.md)
-- [Next](Pieguski.md)
-- [Menu](README.md)
+- [Previous](<Napoleonka.md>)
+- [Next](<Pieguski.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

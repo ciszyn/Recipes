@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Pierogi ruskie.md)
-- [Next](Placki ziemniaczane.md)
-- [Menu](README.md)
+- [Previous](<Pierogi ruskie.md>)
+- [Next](<Placki ziemniaczane.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -32,9 +32,9 @@ Wyrób ciasto ze składników i ulep pierogi. Możesz zamrozić ugotowane bądź
 
 <!-- Navigation Menu End -->
 
-- [Previous](Pierogi ruskie.md)
-- [Next](Placki ziemniaczane.md)
-- [Menu](README.md)
+- [Previous](<Pierogi ruskie.md>)
+- [Next](<Placki ziemniaczane.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

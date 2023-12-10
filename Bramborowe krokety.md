@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Biszkopt.md)
-- [Next](Brownie.md)
-- [Menu](README.md)
+- [Previous](<Biszkopt.md>)
+- [Next](<Brownie.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -23,9 +23,9 @@ Ugotuj ziemniaki i następnie ugnieć. Dodaj mąkę, bułkę tartą, łyżeczkę
 
 <!-- Navigation Menu End -->
 
-- [Previous](Biszkopt.md)
-- [Next](Brownie.md)
-- [Menu](README.md)
+- [Previous](<Biszkopt.md>)
+- [Next](<Brownie.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

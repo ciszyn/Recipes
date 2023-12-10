@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Queijadas de Leite.md)
-- [Next](Rosół.md)
-- [Menu](README.md)
+- [Previous](<Queijadas de Leite.md>)
+- [Next](<Rosół.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -30,9 +30,9 @@ Wyrób ciasto i wymieszaj nadzienie. Piecz w 180C przez 15-20 min.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Queijadas de Leite.md)
-- [Next](Rosół.md)
-- [Menu](README.md)
+- [Previous](<Queijadas de Leite.md>)
+- [Next](<Rosół.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Pierniki.md)
-- [Next](Pierogi z mięsem.md)
-- [Menu](README.md)
+- [Previous](<Pierniki.md>)
+- [Next](<Pierogi z mięsem.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -31,9 +31,9 @@ Ziemniaki ugotuj i zmiel. Cebulę przysmaż na maślę. Wymieszaj wszysto do far
 
 <!-- Navigation Menu End -->
 
-- [Previous](Pierniki.md)
-- [Next](Pierogi z mięsem.md)
-- [Menu](README.md)
+- [Previous](<Pierniki.md>)
+- [Next](<Pierogi z mięsem.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

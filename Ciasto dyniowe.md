@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Carbonara.md)
-- [Next](Ciasto szpinakowe.md)
-- [Menu](README.md)
+- [Previous](<Carbonara.md>)
+- [Next](<Ciasto szpinakowe.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -26,9 +26,9 @@ Ubij jajka z cukrem. Dodaj olej. Dodaj całą resztę. Na koniec dodaj startą 
 
 <!-- Navigation Menu End -->
 
-- [Previous](Carbonara.md)
-- [Next](Ciasto szpinakowe.md)
-- [Menu](README.md)
+- [Previous](<Carbonara.md>)
+- [Next](<Ciasto szpinakowe.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Kokosanki.md)
-- [Next](Krokiety z mięsem.md)
-- [Menu](README.md)
+- [Previous](<Kokosanki.md>)
+- [Next](<Krokiety z mięsem.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -23,9 +23,9 @@ Miękkie masło utrzeć z cukrem pudrem. Stopniowo dodawać masę orzechową, mi
 
 <!-- Navigation Menu End -->
 
-- [Previous](Kokosanki.md)
-- [Next](Krokiety z mięsem.md)
-- [Menu](README.md)
+- [Previous](<Kokosanki.md>)
+- [Next](<Krokiety z mięsem.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

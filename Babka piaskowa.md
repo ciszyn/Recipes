@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Babeczki.md)
-- [Next](Bezy.md)
-- [Menu](README.md)
+- [Previous](<Babeczki.md>)
+- [Next](<Bezy.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -24,9 +24,9 @@ Sparz cytrynę. Ubij białka, dodaj cukier a następnie żółtka. Ubijaj przez 
 
 <!-- Navigation Menu End -->
 
-- [Previous](Babeczki.md)
-- [Next](Bezy.md)
-- [Menu](README.md)
+- [Previous](<Babeczki.md>)
+- [Next](<Bezy.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

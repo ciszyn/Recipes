@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Gulasz.md)
-- [Next](Krem orzechowy.md)
-- [Menu](README.md)
+- [Previous](<Gulasz.md>)
+- [Next](<Krem orzechowy.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -25,9 +25,9 @@ Masło utrzeć z cukrem. Dodać resztę i wymieszać. Ola mówiła że było syp
 
 <!-- Navigation Menu End -->
 
-- [Previous](Gulasz.md)
-- [Next](Krem orzechowy.md)
-- [Menu](README.md)
+- [Previous](<Gulasz.md>)
+- [Next](<Krem orzechowy.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

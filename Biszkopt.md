@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Bezy.md)
-- [Next](Bramborowe krokety.md)
-- [Menu](README.md)
+- [Previous](<Bezy.md>)
+- [Next](<Bramborowe krokety.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -23,9 +23,9 @@ Ostatnio zbyt wcześnie wyjąłem i było surowe w środku, sprawdź patyczkiem!
 
 <!-- Navigation Menu End -->
 
-- [Previous](Bezy.md)
-- [Next](Bramborowe krokety.md)
-- [Menu](README.md)
+- [Previous](<Bezy.md>)
+- [Next](<Bramborowe krokety.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

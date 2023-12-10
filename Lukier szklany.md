@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Lukier królewski.md)
-- [Next](MacNCheese.md)
-- [Menu](README.md)
+- [Previous](<Lukier królewski.md>)
+- [Next](<MacNCheese.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -20,9 +20,9 @@ Mieszamy wszystko razem.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Lukier królewski.md)
-- [Next](MacNCheese.md)
-- [Menu](README.md)
+- [Previous](<Lukier królewski.md>)
+- [Next](<MacNCheese.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

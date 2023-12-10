@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Pieguski.md)
-- [Next](Pierniki.md)
-- [Menu](README.md)
+- [Previous](<Pieguski.md>)
+- [Next](<Pierniki.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -28,9 +28,9 @@
 
 <!-- Navigation Menu End -->
 
-- [Previous](Pieguski.md)
-- [Next](Pierniki.md)
-- [Menu](README.md)
+- [Previous](<Pieguski.md>)
+- [Next](<Pierniki.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

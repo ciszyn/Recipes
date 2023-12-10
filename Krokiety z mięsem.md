@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Krem orzechowy.md)
-- [Next](Lasagne.md)
-- [Menu](README.md)
+- [Previous](<Krem orzechowy.md>)
+- [Next](<Lasagne.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -45,9 +45,9 @@ Ciasto do krokietów powinno być gęstsze niż na naleśniki. Przysmaż ciasto.
 
 <!-- Navigation Menu End -->
 
-- [Previous](Krem orzechowy.md)
-- [Next](Lasagne.md)
-- [Menu](README.md)
+- [Previous](<Krem orzechowy.md>)
+- [Next](<Lasagne.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

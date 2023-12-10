@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Szarlotka.md)
-- [Next](Zapiekanka_pasterska.md)
-- [Menu](README.md)
+- [Previous](<Szarlotka.md>)
+- [Next](<Zapiekanka_pasterska.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -26,9 +26,9 @@ Brokuł podzielić na różyczki i ugotować. Cebulę pokroić w kostkę, czosne
 
 <!-- Navigation Menu End -->
 
-- [Previous](Szarlotka.md)
-- [Next](Zapiekanka_pasterska.md)
-- [Menu](README.md)
+- [Previous](<Szarlotka.md>)
+- [Next](<Zapiekanka_pasterska.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

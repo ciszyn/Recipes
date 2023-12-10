@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Masa budyniowa.md)
-- [Next](Miodownik.md)
-- [Menu](README.md)
+- [Previous](<Masa budyniowa.md>)
+- [Next](<Miodownik.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -26,9 +26,9 @@ Podsmaż drobno pokrojoną cebulę. Bułkę zalaną mlekiem zmiksuj. Do miski ze
 
 <!-- Navigation Menu End -->
 
-- [Previous](Masa budyniowa.md)
-- [Next](Miodownik.md)
-- [Menu](README.md)
+- [Previous](<Masa budyniowa.md>)
+- [Next](<Miodownik.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 

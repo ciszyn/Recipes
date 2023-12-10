@@ -1,8 +1,8 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](Sernik.md)
-- [Next](Tarta.md)
-- [Menu](README.md)
+- [Previous](<Sernik.md>)
+- [Next](<Tarta.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
@@ -50,9 +50,9 @@ Wyłóż formę ciastem, oprósz mąką, jabłkami. Na końcu posyp całość kr
 
 <!-- Navigation Menu End -->
 
-- [Previous](Sernik.md)
-- [Next](Tarta.md)
-- [Menu](README.md)
+- [Previous](<Sernik.md>)
+- [Next](<Tarta.md>)
+- [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
 
