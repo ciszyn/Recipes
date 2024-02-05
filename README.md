@@ -33,7 +33,7 @@
 - [Placki ziemniaczane](<./Placki ziemniaczane.md>)
 - [Polewa czekoladowa](<./Polewa czekoladowa.md>)
 - [Pomidorowa](<./Pomidorowa.md>)
-- [Queijadas de Leite](<./Queijadas de Leite.md>)
+- [Queijadas](<./Queijadas.md>)
 - [Queijadas de Sintra](<./Queijadas de Sintra.md>)
 - [Rosół](<./Rosół.md>)
 - [Sernik](<./Sernik.md>)
