@@ -9,7 +9,7 @@
 <!-- /Navigation Menu Start -->
 
 
-# Zapiekanka Pasterska
+# Zapiekanka z soczewicy
 
 - szklanka soczewicy
 - 2 cebule
