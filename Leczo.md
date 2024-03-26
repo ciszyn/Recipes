@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Leczo
 
 - 6 papryk
@@ -24,6 +25,7 @@
 - szczypta pieprzu
 
 Soczewicę przemocz 1h przed gotowaniem.
+
 
 <!-- Navigation Menu End -->
 
