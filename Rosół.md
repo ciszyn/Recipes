@@ -1,6 +1,6 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](<Queijadas de Sintra.md>)
+- [Previous](<Queijadas.md>)
 - [Next](<Sernik.md>)
 - [Menu](<README.md>)
 
@@ -30,7 +30,7 @@ Gotuj wszystko przez 3h na małym ogniu. Na początku zbierz ścięte białko (s
 
 <!-- Navigation Menu End -->
 
-- [Previous](<Queijadas de Sintra.md>)
+- [Previous](<Queijadas.md>)
 - [Next](<Sernik.md>)
 - [Menu](<README.md>)
 

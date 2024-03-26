@@ -1,7 +1,7 @@
 <!-- Navigation Menu Start -->
 
 - [Previous](<Rosół.md>)
-- [Next](<Szarlotka.md>)
+- [Next](<Sphagetti.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
@@ -37,7 +37,7 @@ Już wzięte pod uwagę mniejsze porcje. Mąkę, cukier puder, proszek do piecze
 <!-- Navigation Menu End -->
 
 - [Previous](<Rosół.md>)
-- [Next](<Szarlotka.md>)
+- [Next](<Sphagetti.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>

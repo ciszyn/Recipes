@@ -1,6 +1,6 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](<Lasagne.md>)
+- [Previous](<Leczo.md>)
 - [Next](<Lukier szklany.md>)
 - [Menu](<README.md>)
 
@@ -19,7 +19,7 @@ Ubij białka, dodaj cukier puder i wymieszaj.
 
 <!-- Navigation Menu End -->
 
-- [Previous](<Lasagne.md>)
+- [Previous](<Leczo.md>)
 - [Next](<Lukier szklany.md>)
 - [Menu](<README.md>)
 

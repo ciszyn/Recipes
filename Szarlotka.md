@@ -1,6 +1,6 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](<Sernik.md>)
+- [Previous](<Sphagetti.md>)
 - [Next](<Tarta.md>)
 - [Menu](<README.md>)
 
@@ -50,7 +50,7 @@ Wyłóż formę ciastem, oprósz mąką, jabłkami. Na końcu posyp całość kr
 
 <!-- Navigation Menu End -->
 
-- [Previous](<Sernik.md>)
+- [Previous](<Sphagetti.md>)
 - [Next](<Tarta.md>)
 - [Menu](<README.md>)
 

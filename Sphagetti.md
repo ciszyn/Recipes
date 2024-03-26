@@ -1,3 +1,13 @@
+<!-- Navigation Menu Start -->
+
+- [Previous](<Sernik.md>)
+- [Next](<Szarlotka.md>)
+- [Menu](<README.md>)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu Start -->
+
 # Sphagetti
 
 - 2 marchewki
@@ -10,3 +20,13 @@
 - 4 ząbki czosnku
 
 Soczewicę przemocz przez noc.
+
+<!-- Navigation Menu End -->
+
+- [Previous](<Sernik.md>)
+- [Next](<Szarlotka.md>)
+- [Menu](<README.md>)
+
+<div style="margin-bottom: 50px"></div>
+
+<!-- /Navigation Menu End -->
