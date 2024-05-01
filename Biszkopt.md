@@ -20,6 +20,8 @@ Białka ubić. Dodawać po łyżce cukru z przerwami po 1min. Dodać żółtka. 
 
 Ostatnio zbyt wcześnie wyjąłem i było surowe w środku, sprawdź patyczkiem!
 
+Za dużo mąki, to wyjdzie naleśnik, za mało to opadnie i się przypali. Dokładnie 1.25 szklanki!
+
 
 <!-- Navigation Menu End -->
 
