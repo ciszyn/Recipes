@@ -33,7 +33,7 @@ Do miski wsypać mąkę, cukier, cukier wanilinowy, wbić jajka, dodać margaryn
 - Świerzo wyciśnięty sok z 1 cytryny 
 - Cynamon  (nie)
 
-Jabłka pokrojone w kostkę (na "9") razem z resztą daj do garnka i duś pod przykryciem około 15-20 minut. Często mieszaj  
+Lepiej więcej niż mniej jabłek. Jabłka pokrojone w kostkę (na "9") razem z resztą daj do garnka i gotuj bez przykrycia około 10 minut. Odlej sok i gotuj dalej. Często mieszaj  
 
 ## Kruszonka 
 
