@@ -8,6 +8,7 @@
 
 <!-- /Navigation Menu Start -->
 
+
 # Dyniowiec
 
 ## Dynia
@@ -36,6 +37,7 @@ Zagnieć ciasto i odłóż na 1h do lodówki. Wyłóż formę z ciastem nakłój
 - (szczypta przyprawy do piernika?)
 
 Zmiksuj wszystko na gładko i piecz na spodzie i piecz 35-45 minut w 175 stopniach.
+
 
 <!-- Navigation Menu End -->
 
