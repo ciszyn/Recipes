@@ -1,7 +1,7 @@
 <!-- Navigation Menu Start -->
 
 - [Previous](<Brownie.md>)
-- [Next](<Ciasto dyniowe.md>)
+- [Next](<Ciasto szpinakowe.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
@@ -26,7 +26,7 @@ Makaron ugotować al dente. Jajka doprawić solą i pieprzem oraz roztrzepać. P
 <!-- Navigation Menu End -->
 
 - [Previous](<Brownie.md>)
-- [Next](<Ciasto dyniowe.md>)
+- [Next](<Ciasto szpinakowe.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
