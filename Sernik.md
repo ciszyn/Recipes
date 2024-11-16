@@ -33,6 +33,8 @@ Już wzięte pod uwagę mniejsze porcje. Mąkę, cukier puder, proszek do piecze
   
 Żółtka utrzeć z cukrem i cukrem wanilinowym (cukier dodawać w miare mieszania) na puszystą masę, dodać tłuszcz, ucierać, następnie porcjami ser nie przerywając miksowania i budyń / proszek. Z białek ubić sztywną pianę, dodać do masy serowej i delikatnie drewnianą łyżką wymieszać. Okrągłą dużą tortownicę wyłożyć papierem do pieczenia i na spód wylać masę serową. Piec 40 min. w 180 C (na spód piekarnika dać naczynie z wodą?). Nie wyciągaj od razu, zostaw przez następną godzinę w wyłączonym piekarniku. Sernik zostawić do przestudzenia. 
 
+Jeśli masz ser nie zmielony, wykorzystaj blender aż nie będzie grudek z sera...
+
 
 <!-- Navigation Menu End -->
 
