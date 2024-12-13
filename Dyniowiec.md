@@ -1,7 +1,7 @@
 <!-- Navigation Menu Start -->
 
 - [Previous](<Ciasto szpinakowe.md>)
-- [Next](<Fasolka.md>)
+- [Next](<Egg Bake.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
@@ -42,7 +42,7 @@ Zmiksuj wszystko na gładko i piecz na spodzie i piecz 35-45 minut w 175 stopnia
 <!-- Navigation Menu End -->
 
 - [Previous](<Ciasto szpinakowe.md>)
-- [Next](<Fasolka.md>)
+- [Next](<Egg Bake.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>

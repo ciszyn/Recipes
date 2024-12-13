@@ -1,7 +1,7 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](<Dyniowiec.md>)
-- [Next](<Gulasz.md>)
+- [Previous](<Egg Bake.md>)
+- [Next](<Flatbread.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>
@@ -36,8 +36,8 @@ Całość wymieszać i gotować jeszcze przez ok. 10 minut na średnim ogniu.
 
 <!-- Navigation Menu End -->
 
-- [Previous](<Dyniowiec.md>)
-- [Next](<Gulasz.md>)
+- [Previous](<Egg Bake.md>)
+- [Next](<Flatbread.md>)
 - [Menu](<README.md>)
 
 <div style="margin-bottom: 50px"></div>

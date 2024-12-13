@@ -1,6 +1,6 @@
 <!-- Navigation Menu Start -->
 
-- [Previous](<Fasolka.md>)
+- [Previous](<Flatbread.md>)
 - [Next](<Kokosanki.md>)
 - [Menu](<README.md>)
 
@@ -33,7 +33,7 @@ Przysmaż cebulę (i marchewkę?) na patelni. Dodaj resztę pokrojoną w kostkę
 
 <!-- Navigation Menu End -->
 
-- [Previous](<Fasolka.md>)
+- [Previous](<Flatbread.md>)
 - [Next](<Kokosanki.md>)
 - [Menu](<README.md>)
 
