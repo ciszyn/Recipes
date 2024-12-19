@@ -11,17 +11,15 @@
 
 # Carbonara
 
-- 2 jajka
-- 100g boczku 
-- 150g makaronu spaghetti 
+- 1 jajko
+- pół marchewki
+- 100g makaronu spaghetti 
 - 2 ząbki czosnku 
-- 2 łyżki natki pietruszki 
-- 30g sera 
+- pół cebuli
 - sól i pieprz 
 - (trochę śmietany?)
 
-Makaron ugotować al dente. Jajka doprawić solą i pieprzem oraz roztrzepać. Podsmażyć boczek aż się zarumieni i dodać wtedy starty czosnek i natkę pietruszki. Trzymając patelnię na małym ogniu dodać makaron i wymieszać. Odstawić z ognia i dodać ser. Makaron polać roztrzepanymi jajkami i wymieszać. Jajka nie mogą się całkowicie ściąć. 
-
+Makaron ugotować al dente. Marchewkę skarmelizować z cukrem i solą. Cebulę podsmażyć z czosnkiem. Do cebuli dodać makaron i trzy chochle wody. Roztrzepać jajko i dodać do makaronu. Trzymać na małym ogniu ciągle mieszając do otrzymania dobrej konsystencji ale żeby jajko się nie ścięło. Dodać marchewkę.
 
 <!-- Navigation Menu End -->
 
