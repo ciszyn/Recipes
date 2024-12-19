@@ -22,6 +22,13 @@
 
 Stopić masło z miodem. Wyrób ciasto. Wytnij figurki i piecz w 200C przez 15min.
 
+## Domki z piernika
+
+- dodaj kakao żeby były brązowe
+- wytnij do szablonu wyciętego w papierze, ale dotnij też na miarę pod wyjęciu z pieca
+- nie ozdabiaj bocznych ścian, tylko front i dach
+
+
 
 <!-- Navigation Menu End -->
 
