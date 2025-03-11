@@ -30,7 +30,7 @@ Mąkę przesiać, wymieszać z sodą. Masło roztopić z miodem i cukrem, wystud
 - 5 łyżek cukru 
 - 2 łyżki miodu 
   
-Masło z cukrem i miodem zagotować i gotować do momentu rozpuszczenia cukru. Dodać posiekane orzechy, wymieszać, chwilkę pogotować. 
+Masło z cukrem i miodem zagotować i gotować do momentu rozpuszczenia cukru. Dodać posiekane orzechy, wymieszać, chwilkę pogotować. (Może dodać mąkę?)
 
 ## Masa budyniowa 
 
